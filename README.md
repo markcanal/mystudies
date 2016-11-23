@@ -1,2 +1,3 @@
 # mystudies
-firststudiesforlaravelframework
+
+studies for laravel framework
